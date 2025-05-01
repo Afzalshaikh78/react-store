@@ -3,6 +3,7 @@ A simple and responsive e-commerce frontend built with React. This project showc
 
 
 ✨ Features
+
 Product catalog with images, prices, and descriptions
 
 Add to cart and remove from cart functionality
