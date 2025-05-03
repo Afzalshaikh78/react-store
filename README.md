@@ -1,5 +1,5 @@
 # react-store
-A simple and responsive e-commerce frontend built with React. This project showcases a basic online store with product listings and dynamic routing. Ideal for practicing React fundamentals and creating a scalable frontend.
+A simple e-commerce frontend built with React. This project showcases a basic online store with product filtering options and dynamic routing. Ideal for practicing React fundamentals and creating a scalable frontend.
 
 
 ✨ Features
